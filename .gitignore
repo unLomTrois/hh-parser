@@ -1,0 +1,7 @@
+# application folders
+bin
+log
+cache
+
+# modules
+node_modules
